@@ -47,6 +47,5 @@ public class BDSimulado {
 	public ArrayList<Emprestimo> geEmprestimos(){
 		return this.emprestimos;
 	}
-	
 
 }
